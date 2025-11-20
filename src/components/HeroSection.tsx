@@ -17,7 +17,7 @@ export default function HeroSection({ onRegisterClick }: HeroSectionProps) {
               Вакансии открыты
             </Badge>
             <h1 className="font-heading font-bold text-5xl md:text-6xl lg:text-7xl leading-tight">
-              Стань курьером <span className="text-primary">Яндекс Еды</span>
+              Стань курьером-партнёром <span className="text-primary">Яндекс Еды</span>
             </h1>
             <p className="text-xl text-muted-foreground">
               Зарабатывай до 150 000 ₽ в месяц с гибким графиком. Начни работать уже завтра!
